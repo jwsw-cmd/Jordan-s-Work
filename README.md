@@ -11,7 +11,7 @@
     <p>In a bind of beautiful lies, <p/>
     <p>Your hands wander high,</p>
     <p>Engaging in actions that defy societal sway.</p>
-    <p>I sense your misplaced emotions,</p>
+    <p>I sense your misplaced emotions</p>
     <p>Askew and unsure,</p>
     <p>Rejected by a love you fear to lose.</p>
     <p>Seeking thrills in the arms of abusers,<p/>
@@ -21,7 +21,7 @@
      <p>With no dignity left for you to hold.</p>
     <p>A five-year-old shouldn't be giving chase,<p/>
     <p>Replicating what the mother bestowed.</p>
-    <p>Feeling left out in the cellar,<p/>
+    <p>Feeling left out in the cellar<p/>
     <p>Calling for Daddy's name.</p>
     <p>He turned enough stones,</p>
     <p>Did you want him to turn yours too?</p>
