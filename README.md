@@ -3,8 +3,9 @@
 
   <div class="intro">
     <p>I wrote my first book using HTML coding language on calibre, I’m here to provide an example by using one of the poems from “Whose Path is This, Anyways?”</p>
-    <p>Simply switch to Code to see my work.</p>
-  </div>
+      </div>
+
+<h1 class="h1"> Simply switch to Code to see my work</h1>
 
   <div class="poem">
     <p>In a bind of beautiful lies, <p/>
