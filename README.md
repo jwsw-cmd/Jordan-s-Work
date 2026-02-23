@@ -7,25 +7,35 @@
   </div>
 
   <div class="poem">
-    <p>In a bind of beautiful lies, Your hands wander high,</p>
+    <p>In a bind of beautiful lies, <p/>
+    <p>Your hands wander high,</p>
     <p>Engaging in actions that defy societal sway.</p>
     <p>I sense your misplaced emotions,</p>
     <p>Askew and unsure,</p>
     <p>Rejected by a love you fear to lose.</p>
-    <p>Seeking thrills in the arms of abusers, Hiding behind bushes near the bleachers.</p>
-    <p>Chasing illusions of a sweet escape, Running exposed, vulnerable, and in a daze, With no dignity left for you to hold.</p>
-    <p>A five-year-old shouldn't be giving chase, Replicating what the mother bestowed.</p>
-    <p>Feeling left out in the cellar, Calling for Daddy's name.</p>
+    <p>Seeking thrills in the arms of abusers,<p/>
+    <p>Hiding behind bushes near the bleachers.</p>
+    <p>Chasing illusions of a sweet escape,<p/>
+     <p>Running exposed, vulnerable, and in a daze,<p/>
+     <p>With no dignity left for you to hold.</p>
+    <p>A five-year-old shouldn't be giving chase,<p/>
+    <p>Replicating what the mother bestowed.</p>
+    <p>Feeling left out in the cellar,<p/>
+    <p>Calling for Daddy's name.</p>
     <p>He turned enough stones,</p>
     <p>Did you want him to turn yours too?</p>
     <p>We both know I'm an inbred,</p>
     <p>Why are you going after the same generational curse?</p>
-    <p>When Daddy's love sure wasn't enough, You found ways to roll more stones.</p>
-    <p>Your long brown hair won't make it to the screen, As long as you continue to scream.</p>
-    <p>Chasing validation from your brother's gaze, No bread to bake, no sustenance in this haze.</p>
+    <p>When Daddy's love sure wasn't enough,<p/>
+    <p>You found ways to roll more stones.</p>
+    <p>Your long brown hair won't make it to the screen,<p/>
+    <p>As long as you continue to scream.</p>
+    <p>Chasing validation from your brother's gaze,<p/>
+     <p>No bread to bake, no sustenance in this haze.</p>
     <p>With him hiding behind my protective shield,</p>
     <p>Remember your place, your role, and yield.</p>
-    <p>Go sit back down with your husband, There's only so much we can tolerate.</p>
+    <p>Go sit back down with your husband,<p/>
+    <p>There's only so much we can tolerate.</p>
     <p>With no stones unturned,</p>
     <p>We had to ensure your kids were unrelated.</p>
   </div>
